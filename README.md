@@ -14,7 +14,11 @@ Get the VNC Client for your Working Place here:
 
 [RealVNC Viewer download](https://www.realvnc.com/de/connect/download/viewer/)
 
-Now put the vnc.sh Script onto your headless Server.
+Now put the
+
+    vnc.sh
+
+Script onto your headless Server.
 
 Run Chromium headless this way:
 
