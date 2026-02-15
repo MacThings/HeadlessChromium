@@ -24,6 +24,16 @@ Run Chromium headless this way:
 
     /bin/bash vnc.sh _open
 
+Stop it with:
+
+    /bin/bash vnc.sh _close
+
+Best practice is to run 
+
+    vcn.sh _open
+
+in a screen session.
+
 Than start the Real VNC Viewer on the Working Place and connect to this address:
 
     localhost:5999
